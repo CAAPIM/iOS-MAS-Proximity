@@ -20,6 +20,7 @@ The iOS Mobile SDK consists these frameworks.
 * MASConnecta
 * MASIdentityManagement
 * MASStorage
+* MASProximity
 
 All of frameworks are recommended to comply with the coding guideline. For more information about the iOS Mobile SDK, see [developer website](http://mas.ca.com).
 
