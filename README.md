@@ -186,7 +186,7 @@ NSString *qrCode = @"your data of QR Code";
 }];
 ```
 
-Once the authorization is successfully done, authenticating device will automatically be able to poll authorization code on its device, and should be able to proceed authentication proccess.
+Once the authorization is successfully done, authenticating device will automatically be able to poll authorization code on its device, and should be able to proceed authentication process.
 
 ### BLE
 
@@ -216,7 +216,7 @@ To authorize other devices through BLE, you will need to implement mandatory `MA
 {
 	// Ask user's consent to authorize other devices using UIAlertController or other methods with given information.
 	
-	// If user does not want to authorize other deivce, simply call following
+	// If user does not want to authorize other device, simply call following
 	completion(NO, nil);
 	
 	// If user allows to authorize other device, simply call following
