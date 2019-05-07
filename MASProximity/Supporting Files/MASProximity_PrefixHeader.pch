@@ -1,0 +1,19 @@
+//
+//  MASProximity_PrefixHeader.pch
+//  MASProximity
+//
+//  Copyright (c) 2019 CA. All rights reserved.
+//
+//  This software may be modified and distributed under the terms
+//  of the MIT license. See the LICENSE file for details.
+//
+
+#ifndef MASProximity_PrefixHeader_pch
+#define MASProximity_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <MASFoundation/MASFoundation.h>
+
+#endif /* MASProximity_PrefixHeader_pch */
