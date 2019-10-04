@@ -329,5 +329,5 @@ of the MIT license. See the [LICENSE][license-link] file for details.
  [docs]: http://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/mobile-sdk-for-ca-mobile-api-gateway/2-0.html
  [StackOverflow]: http://stackoverflow.com/questions/tagged/massdk
  [download]: https://github.com/CAAPIM/iOS-MAS-Proximity/archive/master.zip
- [contributing]: https://github.com/CAAPIM/iOS-MAS-Connecta/blob/develop/CONTRIBUTING.md
+ [contributing]: https://github.com/CAAPIM/iOS-MAS-Proximity/blob/develop/CONTRIBUTING.md
  [license-link]: /LICENSE
