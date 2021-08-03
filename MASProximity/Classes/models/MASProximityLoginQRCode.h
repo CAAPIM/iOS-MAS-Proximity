@@ -65,6 +65,8 @@
  */
 @property (nonatomic, copy, readonly, nonnull) NSString *pollUrl;
 
+@property (nonatomic, copy, readonly, nonnull) NSString *pollUrlTest;
+
 
 # pragma mark - Lifecycle
 
